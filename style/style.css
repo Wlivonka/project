@@ -95,7 +95,7 @@ text-transform: uppercase;
 body{
     background: #040d1f;
     max-width: 1920px;
-    width: ;
+    width: 100%;
 }
 .header_link::after{
     content:'';
